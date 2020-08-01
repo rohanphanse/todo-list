@@ -11,7 +11,7 @@ export class Todo extends Component {
                     <button className = { completed ? "check btn checked" : "check btn" } onClick = {this.props.markComplete.bind(this, id)}>
                         <i className = "fas fa-check"></i>
                     </button>
-                    <div className = "todo-title" style = {{ textDecoration: completed ? "line-through" : "none", textDecorationColor: "rgb(192, 192, 192)" }}>{ title }</div>
+                    <div className = "todo-title" style = {{ textDecoration: completed ? "line-through" : "none" }}>{ title }</div>
                     <button className = "delete btn btn-hover" onClick = {this.props.deleteTodo.bind(this, id)}>
                         <i className = "far fa-trash-alt"></i>
                     </button>
