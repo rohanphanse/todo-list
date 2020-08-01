@@ -20,3 +20,6 @@ npm build
   - Delete
 * Custom CSS styling
 * React.js
+
+## Prview
+![Todo List Preview](https://user-images.githubusercontent.com/58747665/89093875-e2060800-d372-11ea-9eb5-a7da2a644f00.jpg)
