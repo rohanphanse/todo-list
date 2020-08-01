@@ -1,5 +1,5 @@
 # Todo List
-A simple todo list created with React.js. This was inspired by Brad Traversy's React crash course tutorial.
+A simple todo list created with React.js. This was inspired by Brad Traversy's [React crash course](https://www.youtube.com/watch?v=Hf4MJH0jDb4) youtube tutorial.
 
 ## Get started
 ```JS
