@@ -38,7 +38,6 @@ class App extends Component {
     render() {
         return (
             <>
-  
                 <div className="todo-container">
                     <Header />
                     <AddTodo addTodo = {this.addTodo} />
