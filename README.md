@@ -22,7 +22,7 @@ npm build
 * React.js
 
 ## Live Demo
-Try it out: todo-list.roar123.repl.co
+https://todo-list.roar123.repl.co
 
 [![Run on Repl.it](https://repl.it/badge/github/rohanphanse/todo-list)](https://repl.it/github/rohanphanse/todo-list)
 ![Todo List Preview](https://user-images.githubusercontent.com/58747665/89093875-e2060800-d372-11ea-9eb5-a7da2a644f00.jpg)
