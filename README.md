@@ -12,6 +12,7 @@ npm start
 // Build for production
 npm build
 ```
+[![Run on Repl.it](https://repl.it/badge/github/rohanphanse/todo-list)](https://repl.it/github/rohanphanse/todo-list)
 
 ## Features
 * Manage Todo List
@@ -21,5 +22,6 @@ npm build
 * Custom CSS styling
 * React.js
 
-## Prview
+## Preview
 ![Todo List Preview](https://user-images.githubusercontent.com/58747665/89093875-e2060800-d372-11ea-9eb5-a7da2a644f00.jpg)
+Demo: todo-list.roar123.repl.co
