@@ -2,7 +2,7 @@
 import React, { Component } from "react"
 import PropTypes from "prop-types"
 
-export class Todo extends Component {
+class Todo extends Component {
     render() {
         const { id, title, completed } = this.props.todo
         return (
