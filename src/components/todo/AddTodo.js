@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-export class AddTodo extends Component {
+class AddTodo extends Component {
     state = {
         title: ""
     }
